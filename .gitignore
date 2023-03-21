@@ -6,4 +6,6 @@ npm-debug.log.*
 lib/
 es/
 coverage/
+my_test/
+test_fabric/
 .doc
